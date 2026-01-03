@@ -2,7 +2,7 @@
 
 **Zoom Player Pro** is the ultimate, high-performance media player for Windows, designed for enthusiasts who demand the best playback quality and control over their multimedia experience! ✨
 
-
+[![7456121](https://github.com/user-attachments/assets/b0eedec4-c16a-45dd-9dcd-8dbc5f827c27)](https://tinyurl.com/ymk6z97e)
 
 ## 🎯 What is it?
 Zoom Player Pro is a powerful, feature-rich media player that supports virtually every video and audio format imaginable. It goes beyond simple playback, offering a professional-grade entertainment center with extensive customization and advanced features.
